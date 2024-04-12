@@ -7,7 +7,7 @@ Analyzing the causes of delays in Toronto's subway system for 2021.
 
 **(I) Analyze 3 files** containing delay incidents recorded for 2021, among Toronto's trains:
 1) Raw Data
-2) Delay Codes (Data Dictionary containing the abbreviations of all the delay-codes, and their full forms)
+2) Delay Codes (Table containing the abbreviations of all the delay-codes, and their corresponding full forms)
 3) Metadata
 
 
